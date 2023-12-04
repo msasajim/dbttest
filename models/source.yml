@@ -1,0 +1,6 @@
+version: 2
+    
+sources:
+  - name: Warehouse_postgres_public
+    tables:
+      - name: customer
